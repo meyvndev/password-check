@@ -9,7 +9,7 @@ Welcome to the Password Match Checker project! 🔒 This web application allows 
 - Built with HTML, CSS, and JavaScript
 
 ## Preview
-![Password Match Checker Preview](images/preview.png)
+![Password Match Checker Preview](preview.png)
 
 [See the live demo](#) to experience the Password Match Checker in action.
 
